@@ -1,1 +1,7 @@
-/home/ivan/.config/sublime-text-2/Packages/User/SublimeLinter.sublime-settings
+{
+
+"gjslint_ignore":
+    [
+        140  // line too long
+    ]
+}

@@ -1,1 +1,18 @@
-/home/ivan/.config/sublime-text-2/Packages/User/Package Control.sublime-settings
+{
+	"auto_upgrade_last_run": 1344376964,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Git",
+		"LESS",
+		"LESS-build",
+		"Package Control",
+		"Shell Turtlestein",
+		"SideBarEnhancements",
+		"Sublime Tweet",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}
