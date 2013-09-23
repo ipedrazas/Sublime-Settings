@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
-	"font_face": "Courier New",
-	"font_size": 10,
+	"color_scheme": "Packages/Color Scheme - Default/Darkside.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Hermit Medium",
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -11,6 +12,5 @@
 	"save_on_focus_lost": true,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true
+	"trim_trailing_white_space_on_save": true
 }
