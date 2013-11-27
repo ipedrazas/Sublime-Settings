@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"auto_complete_commit_on_tab": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Hermit Medium",
@@ -13,6 +14,5 @@
 	"tab_size": 4,
 	"theme": "Minimal Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true
+	"trim_trailing_white_space_on_save": true
 }
